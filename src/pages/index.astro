@@ -1,0 +1,55 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import LineBadge from '../components/LineBadge.astro';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const base = import.meta.env.BASE_URL;
+const fmt = (d: Date) => d.toLocaleDateString('en-AU', { day: 'numeric', month: 'long', year: 'numeric' });
+
+// Lines not yet ridden. Remove a line from this list once its post is published.
+const ridden = new Set(posts.map((p) => p.data.line));
+const allLines = [
+  'Airport line', 'Beenleigh line', 'Caboolture line', 'Cleveland line', 'Doomben line', 'Ferny Grove line',
+  'Gold Coast line', 'Ipswich & Rosewood line', 'Redcliffe Peninsula line', 'Shorncliffe line',
+  'Springfield line', 'Sunshine Coast line',
+];
+const upcoming = allLines.filter((l) => !ridden.has(l));
+---
+<Base>
+  <section class="hero wrap">
+    <p class="kicker">Brisbane by train</p>
+    <h1>Every line.<br /><em>To the very end.</em></h1>
+    <p>One trip per train line, every one starting from Roma Street, to find out what there is to see, eat and do at the last stop.</p>
+  </section>
+
+  <section class="wrap">
+    <h2 class="section-title">Trips so far</h2>
+    <ol class="line">
+      {posts.map((post) => (
+        <li class="stop ridden">
+          <a class="stop-card" href={`${base}posts/${post.id}/`}>
+            <Image src={post.data.cover} alt={post.data.coverAlt} widths={[480, 800, 1200]} sizes="(min-width: 720px) 26rem, 100vw" />
+            <div class="stop-body">
+              <LineBadge code={post.data.lineCode} line={post.data.line} />
+              <h2>{post.data.title}</h2>
+              <p>{post.data.description}</p>
+              <p class="meta" style="margin-top:.6rem">{fmt(post.data.date)}</p>
+            </div>
+          </a>
+        </li>
+      ))}
+    </ol>
+
+    {upcoming.length > 0 && (
+      <>
+        <h2 class="section-title">Still to ride</h2>
+        <ol class="line upcoming">
+          {upcoming.map((l) => <li class="stop"><span class="name">{l}</span></li>)}
+        </ol>
+      </>
+    )}
+  </section>
+</Base>

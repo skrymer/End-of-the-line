@@ -1,0 +1,22 @@
+{
+  "name": "end-of-the-line",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skrymer/end-of-the-line.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skrymer/end-of-the-line/issues"
+  },
+  "homepage": "https://github.com/skrymer/end-of-the-line#readme",
+  "dependencies": {
+    "astro": "^7.4.13"
+  },
+  "private": true,
+  "type": "module"
+}

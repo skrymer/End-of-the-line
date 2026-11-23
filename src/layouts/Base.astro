@@ -1,0 +1,40 @@
+---
+import '../styles/global.css';
+interface Props { title?: string; description?: string; image?: string }
+const site = 'End of the Line';
+const { title, description = 'Riding every Brisbane train line to its last stop, starting from Roma Street, and finding out what there is to do at the end.', image } = Astro.props;
+const pageTitle = title ? `${title} · ${site}` : site;
+const base = import.meta.env.BASE_URL;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={title ? 'article' : 'website'} />
+    <meta property="og:url" content={canonical} />
+    {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
+    <meta name="theme-color" content="#faf8f3" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="wordmark" href={base}><span class="buffer" aria-hidden="true"></span>End of the Line</a>
+        <nav><a href={base}>All trips</a></nav>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">Every Brisbane train line, to the last stop. Photos and words by Sonni Nielsen.</div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+---
+interface Props { code: string; line: string }
+const { code, line } = Astro.props;
+const colours: Record<string, string> = { T4: 'var(--line-t4)' };
+---
+<span class="badge" style={`--line: ${colours[code] ?? 'var(--ink)'}`}>
+  <span class="roundel" aria-hidden="true">{code}</span>
+  {line}
+</span>
