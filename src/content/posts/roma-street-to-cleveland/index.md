@@ -1,6 +1,6 @@
 ---
 title: "Roma Street to Cleveland"
-description: "The first End of the Line trip: the Cleveland line to Moreton Bay, where the last stop turned out to be a proper bayside town with shopping, food and a view of the bay."
+description: "The Cleveland line to Moreton Bay, where the last stop turned out to be a lively bayside town."
 date: 2026-11-23
 line: "Cleveland line"
 lineCode: "T4"
@@ -11,53 +11,49 @@ coverAlt: "A train waiting at a sunlit platform at Roma Street"
 
 ## All aboard at Roma Street
 
-I started at Roma Street in the heart of Brisbane and rode the Cleveland line to the end, on the shore of Moreton Bay. The line runs east through the inner suburbs and out to the bay, a little under an hour door to door.
+First trip: Roma Street to Cleveland, on Moreton Bay. Just under an hour, east through the suburbs to the water.
 
-The station itself is in the middle of a makeover. The entrance is a tall glass hall full of morning light, with construction hoardings on either side announcing a new underground station at Roma Street, part of the Cross River Rail project.
+Roma Street is mid-makeover, its glass entrance hall flanked by hoardings for the new Cross River Rail station.
 
 ![The glass entrance hall at Roma Street, with hoardings for the new underground station](./roma-street-entrance.jpg)
 
 ## Along the line
 
-At 8:55 the departures board had the 9:20 to Cleveland on platform 5.
+I caught the 9:20 from platform 5: 21 stops, from South Brisbane through the inner suburbs and down the bayside run from Wynnum to Cleveland.
 
-By 9:07 I was on platform 5, where the board listed all 21 stops: South Brisbane, South Bank, Boggo Road, Buranda, Coorparoo, Norman Park, Morningside, Cannon Hill and Murarrie, then the bayside run of Hemmant, Lindum, Wynnum North, Wynnum, Wynnum Central, Manly, Lota, Thorneside, Birkdale, Wellington Point and Ormiston, and finally Cleveland.
-
-Then train 746 pulled in with Cleveland on its destination screen, and I climbed aboard.
-
-The carriage was bright and almost empty, so I had my pick of window seats. Just after 9:20 we pulled out of Roma Street, sliding past the long covered platforms on our way out of the city.
+The carriage was nearly empty, so I had my pick of window seats.
 
 ![Inside the carriage, nearly empty](./carriage.jpg)
 
-A few minutes later we were crossing the Brisbane River on the Merivale Bridge. Through the steel bracing I could see the white arches of the William Jolly Bridge, the brown river below and the city towers behind, before the train rolled into South Brisbane.
+Minutes later we crossed the river on the Merivale Bridge, with the William Jolly Bridge and the city towers framed in the window.
 
 ![The city skyline and the William Jolly Bridge from the train window](./city-skyline.jpg)
 
 ![A road bridge curving across the river, seen through the bridge's steel bracing](./river-bridge.jpg)
 
-After South Bank, the line ran out over another bridge just before Boggo Road. Long concrete arches curved over our track, finished at one end with a fan of steel rods, and through them I could see an old riveted steel truss bridge running alongside.
+Near Boggo Road, concrete arches with a fan of steel rods curve over the track, an old riveted truss bridge running alongside.
 
 ![Concrete arch and its fan of steel rods](./arch-fan.jpg)
 
 ![The old steel truss bridge seen through the arches](./truss-bridge.jpg)
 
-Past the inner suburbs the city fell away. Just before Hemmant the train crossed a wide creek lined with mangroves, the first real sign that we were nearing the bay.
+Past the inner suburbs the city falls away, and mangroves before Hemmant hint at the bay.
 
 ![Mangroves along the creek before Hemmant](./mangrove-creek.jpg)
 
-Further on, between Thorneside and Birkdale, the train crossed Tingalpa Creek, wide and brown and lined on both banks with mangroves and bush, with a single boat making its way upstream.
+Further on, between Thorneside and Birkdale, the line crosses Tingalpa Creek, wide and lined with mangroves.
 
 ![Tingalpa Creek and its mangroves from the train](./tingalpa-creek.jpg)
 
 ## Arriving at Cleveland
 
-A little after Ormiston the train slowed for the last time and stopped under the gum trees at Cleveland, the end of the T4 line. The station is small and quiet, more country platform than city terminus, and I honestly wasn't expecting much from the town beyond it. I was wrong.
+Cleveland station is small and quiet, under gum trees. I didn't expect much from the town beyond it. I was wrong.
 
 ![The T4 Cleveland sign at the end of the line](./cleveland-sign.jpg)
 
 ## Christmas by the harbour
 
-A short walk from the station, a row of tall Norfolk pines lines the road along the harbour, with yachts and the townhouses of Raby Bay just behind them. In the park on the waterfront, Redland City Council had already put up its Christmas tree: a tall tree covered in red and gold baubles, fenced off with a white picket fence and topped with a wire star. A poster on the fence advertised the official tree lighting, with live music and a movie in the park. Nothing says Queensland Christmas like baubles under a blue sky and a sea breeze.
+A short walk away, Norfolk pines line the harbour at Raby Bay. The council's Christmas tree is already up by the water, red and gold baubles under a blue sky.
 
 ![Norfolk pines along the harbour, with yachts behind](./harbour-pines.jpg)
 
@@ -65,7 +61,7 @@ A short walk from the station, a row of tall Norfolk pines lines the road along 
 
 ## Shopping and eating in town
 
-This was the real surprise. Cleveland has a proper town centre, and it's busy. Up the steps and past Cleveland Library, the main street is lined with poinciana trees in full, flaming red bloom, with benches in their shade and small shops underneath: florists, real estate agents, cafés and restaurants with tables outside.
+The real surprise: a busy town centre. Past Cleveland Library, the main street is lined with flowering poincianas, small shops and cafés.
 
 ![Steps and gardens beside Cleveland Library](./library-steps.jpg)
 
@@ -73,19 +69,19 @@ This was the real surprise. Cleveland has a proper town centre, and it's busy. U
 
 ![The main street lined with flowering poincianas](./main-street.jpg)
 
-Just behind is Cleveland Central, a full shopping centre with a Woolworths and a dining strip. Its entrances are named after the bay islands, so I left through the "Russell Island" exit, which is about as close to island hopping as a shopping trip gets.
+Behind it is Cleveland Central, a full shopping centre whose exits are named after the bay islands. I left via Russell Island.
 
 ![Cleveland Central's Russell Island exit](./cleveland-central.jpg)
 
-Between the main street and the centre there was far more choice for lunch and shopping than I'd expected at the end of a suburban train line. You could easily spend a few hours here without going near the water.
+Far more to eat and buy than I expected at the end of a suburban line.
 
 ## Down to the bay
 
-Then the water. Raby Bay's marina is right in town, packed with yachts and cruisers sitting perfectly still on glassy water, with Norfolk pines and apartments around the edge.
+Raby Bay's marina sits right in town, yachts still on glassy water.
 
 ![Yachts on still water at Raby Bay](./raby-bay-marina.jpg)
 
-A path runs along the foreshore past wide lawns, pandanus palms and lines of Norfolk pines, with a rock wall dropping down to the bay. Out on Moreton Bay, sailboats sat at anchor, low green islands stretched along the horizon and big clouds rolled over the water. It was breezy, mostly empty and very peaceful. Bring a picnic, find some shade under a pine and you could stay all afternoon.
+A foreshore path runs past lawns and pines to the bay, with boats at anchor and islands on the horizon. Quiet, breezy and perfect for a picnic.
 
 ![Norfolk pines on the lawn by the bay](./foreshore-pines.jpg)
 
@@ -97,13 +93,13 @@ A path runs along the foreshore past wide lawns, pandanus palms and lines of Nor
 
 ![Looking across the water from the rocks](./across-the-water.jpg)
 
-On the way back I passed the marina one more time, the clouds building up over the masts.
+One last look at the marina on the way back.
 
 ![Clouds building over the marina](./marina-clouds.jpg)
 
 ## Heading home
 
-Back at the station, the board had trains to the City and Shorncliffe every half hour. I caught the 11:39 from platform 1, a sleek new-generation train that would carry me straight back through Roma Street and on across the north side to Shorncliffe, at the end of a different line, for another day.
+Trains run back every half hour. I took the 11:39, which runs through to Shorncliffe, the end of another line, for another day.
 
 ![Departures board: the 11:39 to the City and Shorncliffe](./departures-board.jpg)
 
@@ -111,11 +107,11 @@ Back at the station, the board had trains to the City and Shorncliffe every half
 
 ## At the end of the line: Cleveland
 
-- **Shop:** the main street's small shops plus Cleveland Central, a full shopping centre with a supermarket
-- **Eat:** cafés and restaurants along the main street and the centre's dining strip
-- **Walk:** Raby Bay marina and the foreshore path along Moreton Bay
-- **Relax:** shady lawns and Norfolk pines by the water, good for a picnic
-- **Seasonal:** the council Christmas tree by the harbour in November and December
-- **Getting there:** about an hour from Roma Street on the Cleveland line, with trains back every 30 minutes
+- **Shop:** main street shops and Cleveland Central
+- **Eat:** cafés, restaurants and the centre's dining strip
+- **Walk:** Raby Bay marina and the foreshore path
+- **Relax:** shady lawns by the bay
+- **Seasonal:** the harbour Christmas tree
+- **Getting there:** about an hour from Roma Street, trains every 30 minutes
 
-Cleveland surprised me. I came for the end of the line and found a proper bayside town, with plenty to eat, plenty to buy and one of the nicest views of the bay in Brisbane.
+I came for the end of the line and found a proper bayside town.
