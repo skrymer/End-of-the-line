@@ -27,11 +27,27 @@ Then train 746 pulled in with Cleveland on its destination screen, and I climbed
 
 The carriage was bright and almost empty, so I had my pick of window seats. Just after 9:20 we pulled out of Roma Street, sliding past the long covered platforms on our way out of the city.
 
+![Inside the carriage, nearly empty](./carriage.jpg)
+
 A few minutes later we were crossing the Brisbane River on the Merivale Bridge. Through the steel bracing I could see the white arches of the William Jolly Bridge, the brown river below and the city towers behind, before the train rolled into South Brisbane.
+
+![The city skyline and the William Jolly Bridge from the train window](./city-skyline.jpg)
+
+![A road bridge curving across the river, seen through the bridge's steel bracing](./river-bridge.jpg)
 
 After South Bank, the line ran out over another bridge just before Boggo Road. Long concrete arches curved over our track, finished at one end with a fan of steel rods, and through them I could see an old riveted steel truss bridge running alongside.
 
+![Concrete arch and its fan of steel rods](./arch-fan.jpg)
+
+![The old steel truss bridge seen through the arches](./truss-bridge.jpg)
+
 Past the inner suburbs the city fell away. Just before Hemmant the train crossed a wide creek lined with mangroves, the first real sign that we were nearing the bay.
+
+![Mangroves along the creek before Hemmant](./mangrove-creek.jpg)
+
+Further on, between Thorneside and Birkdale, the train crossed Tingalpa Creek, wide and brown and lined on both banks with mangroves and bush, with a single boat making its way upstream.
+
+![Tingalpa Creek and its mangroves from the train](./tingalpa-creek.jpg)
 
 ## Arriving at Cleveland
 
