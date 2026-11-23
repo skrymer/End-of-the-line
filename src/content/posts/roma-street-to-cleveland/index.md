@@ -13,6 +13,10 @@ coverAlt: "A train waiting at a sunlit platform at Roma Street"
 
 I started at Roma Street in the heart of Brisbane and rode the Cleveland line to the end, on the shore of Moreton Bay. The line runs east through the inner suburbs and out to the bay, a little under an hour door to door.
 
+The station itself is in the middle of a makeover. The entrance is a tall glass hall full of morning light, with construction hoardings on either side announcing a new underground station at Roma Street, part of the Cross River Rail project.
+
+![The glass entrance hall at Roma Street, with hoardings for the new underground station](./roma-street-entrance.jpg)
+
 ## Along the line
 
 At 8:55 the departures board had the 9:20 to Cleveland on platform 5.
