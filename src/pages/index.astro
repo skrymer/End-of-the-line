@@ -12,11 +12,20 @@ const fmt = (d: Date) => d.toLocaleDateString('en-AU', { day: 'numeric', month: 
 // Lines not yet ridden. Remove a line from this list once its post is published.
 const ridden = new Set(posts.map((p) => p.data.line));
 const allLines = [
-  'Airport line', 'Beenleigh line', 'Caboolture line', 'Cleveland line', 'Doomben line', 'Ferny Grove line',
-  'Gold Coast line', 'Ipswich & Rosewood line', 'Redcliffe Peninsula line', 'Shorncliffe line',
-  'Springfield line', 'Sunshine Coast line',
+  { line: 'Airport line', end: 'Domestic Airport' },
+  { line: 'Beenleigh line', end: 'Beenleigh' },
+  { line: 'Caboolture line', end: 'Caboolture' },
+  { line: 'Cleveland line', end: 'Cleveland' },
+  { line: 'Doomben line', end: 'Doomben' },
+  { line: 'Ferny Grove line', end: 'Ferny Grove' },
+  { line: 'Gold Coast line', end: 'Varsity Lakes' },
+  { line: 'Ipswich & Rosewood line', end: 'Rosewood' },
+  { line: 'Redcliffe Peninsula line', end: 'Kippa-Ring' },
+  { line: 'Shorncliffe line', end: 'Shorncliffe' },
+  { line: 'Springfield line', end: 'Springfield Central' },
+  { line: 'Sunshine Coast line', end: 'Gympie North' },
 ];
-const upcoming = allLines.filter((l) => !ridden.has(l));
+const upcoming = allLines.filter((l) => !ridden.has(l.line));
 ---
 <Base>
   <section class="hero wrap">
@@ -47,7 +56,7 @@ const upcoming = allLines.filter((l) => !ridden.has(l));
       <>
         <h2 class="section-title">Still to ride</h2>
         <ol class="line upcoming">
-          {upcoming.map((l) => <li class="stop"><span class="name">{l}</span></li>)}
+          {upcoming.map((l) => <li class="stop"><span class="name">{l.line} <span class="arrow" aria-hidden="true">→</span><span class="sr-only">to</span> <strong>{l.end}</strong></span></li>)}
         </ol>
       </>
     )}

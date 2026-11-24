@@ -91,3 +91,6 @@ a:hover { text-decoration-color: var(--ink); }
 
 /* Footer */
 .site-footer { border-top: 1px solid var(--rule); padding-block: 2rem; font-family: var(--sans); font-size: .85rem; color: var(--muted); }
+.upcoming .name strong { color: var(--ink); font-weight: 600; }
+.upcoming .arrow { color: var(--accent); margin: 0 .15rem; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
